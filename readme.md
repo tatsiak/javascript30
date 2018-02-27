@@ -3,3 +3,5 @@
 ### <a href='https://tatsiak.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/index.html'>day 2 - JS + CSS Clock</a>
 
 ### <a href='https://tatsiak.github.io/JavaScript30/03%20-%20CSS%20Variables/index.html'>day 3 - Playing with CSS Variables</a>
+
+### <a href='https://tatsiak.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/index.html'>day 4 - Array Cardio Day 1</a>
