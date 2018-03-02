@@ -7,3 +7,5 @@
 ### <a href='https://tatsiak.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/index.html'>day 4 - Array Cardio Day 1</a>
 
 ### <a href='https://tatsiak.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/index.html'>day 5 - Flex Panels 💪</a>
+
+### <a href='https://tatsiak.github.io/JavaScript30/06%20-%20Type%20Ahead/index.html'>day 6 - Type Ahead</a>
