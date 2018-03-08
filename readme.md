@@ -17,3 +17,5 @@
 ### <a href='https://tatsiak.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/index.html'>day 9 - Console tricks!</a>
 
 ### <a href='https://tatsiak.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html'>day 10 - Hold Shift and Check Checkboxes</a>
+
+### <a href='https://tatsiak.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/index.html'>day 11 - Custom video player</a>
