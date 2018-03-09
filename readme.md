@@ -19,3 +19,5 @@
 ### <a href='https://tatsiak.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html'>day 10 - Hold Shift and Check Checkboxes</a>
 
 ### <a href='https://tatsiak.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/index.html'>day 11 - Custom video player</a>
+
+### <a href='https://tatsiak.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/index.html'>day 12 - Key Sequence Detection</a>
