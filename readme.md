@@ -21,3 +21,5 @@
 ### <a href='https://tatsiak.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/index.html'>day 11 - Custom video player</a>
 
 ### <a href='https://tatsiak.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/index.html'>day 12 - Key Sequence Detection</a>
+
+### <a href='https://tatsiak.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/index.html'>day 13 - Slide in on Scroll</a>
