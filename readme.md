@@ -25,3 +25,5 @@
 ### <a href='https://tatsiak.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/index.html'>day 13 - Slide in on Scroll</a>
 
 ### <a href='https://tatsiak.github.io/JavaScript30/14%20-%20JavaScript%20References%20VS%20Copying/index.html'>day 14 - JS Reference vs Copy</a>
+
+### <a href='https://tatsiak.github.io/JavaScript30/15%20-%20LocalStorage/index.html'>day 15 - Local Storage and Event Delegation</a>
