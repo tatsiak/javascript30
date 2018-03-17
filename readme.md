@@ -40,3 +40,5 @@ Link to original repo https://github.com/wesbos/JavaScript30/
 ### <a href='https://tatsiak.github.io/JavaScript30/16%20-%20Mouse%20Move%20Shadow/index.html'>day 16 - Mouse Shadow</a>
 
 ### <a href='https://tatsiak.github.io/JavaScript30/17%20-%20Sort%20Without%20Articles/index.html'>day 17 - Sort Without Articles</a>
+
+### <a href='https://tatsiak.github.io/JavaScript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/index.html'>day 18 - Adding Up Times with Reduce</a>
