@@ -42,3 +42,5 @@ Link to original repo https://github.com/wesbos/JavaScript30/
 ### <a href='https://tatsiak.github.io/JavaScript30/17%20-%20Sort%20Without%20Articles/index.html'>day 17 - Sort Without Articles</a>
 
 ### <a href='https://tatsiak.github.io/JavaScript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/index.html'>day 18 - Adding Up Times with Reduce</a>
+
+### <a href='https://tatsiak.github.io/JavaScript30/19%20-%20Webcam%20Fun/index.html'>day 19 - Webcam Fun</a>
