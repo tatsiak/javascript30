@@ -44,3 +44,5 @@ Link to original repo https://github.com/wesbos/JavaScript30/
 ### <a href='https://tatsiak.github.io/JavaScript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/index.html'>day 18 - Adding Up Times with Reduce</a>
 
 ### <a href='https://tatsiak.github.io/JavaScript30/19%20-%20Webcam%20Fun/index.html'>day 19 - Webcam Fun</a>
+
+### <a href='https://tatsiak.github.io/JavaScript30/20%20-%20Speech%20Detection/index.html'>day 20 - Speech Recognition</a>
