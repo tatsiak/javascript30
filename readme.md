@@ -47,4 +47,4 @@ Link to original repo https://github.com/wesbos/JavaScript30/
 
 ### <a href='https://tatsiak.github.io/JavaScript30/20%20-%20Speech%20Detection/index.html'>day 20 - Speech Recognition</a>
 
-### <a href='https://tatsiak.github.io/JavaScript30/21%20-%20Geolocation/index-START.html'>day 21 - Geolocation</a>
+### <a href='https://tatsiak.github.io/JavaScript30/21%20-%20Geolocation/index.html'>day 21 - Geolocation</a>
