@@ -50,3 +50,5 @@
 - [day 21 - Geolocation](https://tatsiak.github.io/JavaScript30/21%20-%20Geolocation/index.html)
 
 - [day 22 - 👀👀👀Follow Along Links](https://tatsiak.github.io/JavaScript30/22%20-%20Follow%20Along%20Link%20Highlighter/index.html)
+
+- [day 23 - Speech Synthesis](https://tatsiak.github.io/JavaScript30/23%20-%20Speech%20Synthesis/index.html)
