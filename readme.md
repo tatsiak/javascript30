@@ -54,3 +54,6 @@
 - [day 23 - Speech Synthesis](https://tatsiak.github.io/JavaScript30/23%20-%20Speech%20Synthesis/index.html)
 
 - [day 24 - Sticky Nav](https://tatsiak.github.io/JavaScript30/24%20-%20Sticky%20Nav/index.html)
+
+- [day 25 - Event Capture, Propagation, Bubbling and Once](https://tatsiak.github.io/JavaScript30/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/index.html)
+
