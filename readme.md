@@ -56,5 +56,7 @@
 - [day 24 - Sticky Nav](https://tatsiak.github.io/JavaScript30/24%20-%20Sticky%20Nav/index.html)
 
 - [day 25 - Event Capture, Propagation, Bubbling and Once](https://tatsiak.github.io/JavaScript30/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/index.html)
-- [day 25 - Follow along nav](https://tatsiak.github.io/JavaScript30/26%20-%20Stripe%20Follow%20Along%20Nav/index.html)
 
+- [day 26 - Follow along nav](https://tatsiak.github.io/JavaScript30/26%20-%20Stripe%20Follow%20Along%20Nav/index.html)
+
+- [day 27 - Click and Drag](https://tatsiak.github.io/JavaScript30/27%20-%20Click%20and%20Drag/index.html)
