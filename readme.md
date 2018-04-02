@@ -62,3 +62,5 @@
 - [day 27 - Click and Drag](https://tatsiak.github.io/JavaScript30/27%20-%20Click%20and%20Drag/index.html)
 
 - [day 28 - Video Speed Scrubber](https://tatsiak.github.io/JavaScript30/28%20-%20Video%20Speed%20Controller/index.html)
+
+- [day 29 - Countdown Timer](https://tatsiak.github.io/JavaScript30/29%20-%20Countdown%20Timer/index.html)
