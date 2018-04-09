@@ -64,3 +64,5 @@
 - [day 28 - Video Speed Scrubber](https://tatsiak.github.io/JavaScript30/28%20-%20Video%20Speed%20Controller/index.html)
 
 - [day 29 - Countdown Timer](https://tatsiak.github.io/JavaScript30/29%20-%20Countdown%20Timer/index.html)
+
+- [day 30 - Whack a Mole! Game](https://tatsiak.github.io/JavaScript30/30%20-%20Whack%20A%20Mole/index.html)
